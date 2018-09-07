@@ -1,0 +1,22 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/categories/categories",
+    "pages/discovery/discovery",
+    "pages/channel/phone/phone",
+    "pages/channel/tv/tv",
+    "pages/channel/computer/computer",
+    "pages/cart/cart",
+    "pages/mine/mine",
+    "pages/goods/goods",
+    "pages/selectGoods/selectGoods",
+    "pages/search/search",
+    "pages/addr/addr"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"black"
+  }
+}
